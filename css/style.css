@@ -5,7 +5,7 @@
 }
 
 body {
-    color: ##CBCBCB;
+    color: ##E3E4E6;
 	font-family: gilroy;
     background-image: url("../img/background.png");
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@ body {
 .avatar {
     height: 192px;
     border-radius: 360px;
-    border: ##CBCBCB 3px solid;
+    border: ##E3E4E6 3px solid;
     margin-bottom: 8px;
     opacity: 0;
     transform: translateY(-80px);
